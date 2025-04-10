@@ -30,8 +30,9 @@ h3{
     color: #894f3b;    
 }
 
-img{
-    
+p{
+    text-align: justify;
+    text-indent: 15px;
 }
 li{
     list-style-image: url(../img/lemon2.png);
